@@ -9,7 +9,7 @@ YOLOv5 is a family of object detection architectures and models pretrained on th
 🚀Why YOLOv5? 
 YOLOv5 is the Leader in Realtime Object Detection, because of PyTorch implementation, fast in speed, high in accuracy and light in size. 
 
-🌟🌟TABLE OF CONTENT
+⭐️TABLE OF CONTENT
    Installing CUDA
    Installing PyTorch
    Installing Yolov5
