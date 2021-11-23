@@ -11,9 +11,9 @@ YOLOv5 is the Leader in Realtime Object Detection, because of PyTorch implementa
 
 ⭐️Table of content
 
-   Installing CUDA
-   Installing PyTorch
-   Installing Yolov5
+   Installing CUDA<br>
+   Installing PyTorch<br>
+   Installing Yolov5<br>
    Inference with detect.py
 
 =================================================================================
