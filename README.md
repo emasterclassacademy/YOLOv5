@@ -16,5 +16,6 @@ YOLOv5 is the Leader in Realtime Object Detection, because of PyTorch implementa
    Inference with detect.py
 
 =========================================================================================================================================
+
 ⭐️⭐️⭐️Support FREE content: https://www.buymeacoffee.com/eMasterClass
 Credit to: Abdullah Ayantayo to support this FREE video
